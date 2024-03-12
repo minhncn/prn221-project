@@ -1,0 +1,12 @@
+/Users/thinhtran/Documents/TestOCR/TestOCR/bin/Debug/net6.0/TestOCR.deps.json
+/Users/thinhtran/Documents/TestOCR/TestOCR/bin/Debug/net6.0/TestOCR.dll
+/Users/thinhtran/Documents/TestOCR/TestOCR/bin/Debug/net6.0/TestOCR.pdb
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.csproj.AssemblyReference.cache
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.GeneratedMSBuildEditorConfig.editorconfig
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.AssemblyInfoInputs.cache
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.AssemblyInfo.cs
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.csproj.CoreCompileInputs.cache
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.dll
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/refint/TestOCR.dll
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/TestOCR.pdb
+/Users/thinhtran/Documents/TestOCR/TestOCR/obj/Debug/net6.0/ref/TestOCR.dll

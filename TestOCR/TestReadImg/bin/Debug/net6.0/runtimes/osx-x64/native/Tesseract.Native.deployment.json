@@ -1,0 +1,25 @@
+{
+  "configurations": [
+    {
+      "name": "default",
+      "verify": [
+		"otool -L liblept-5.dylib",
+        "otool -L libtesseract-5.dylib"
+      ],
+      "install": [
+      ],
+      "runtime": [
+		"xattr -r -d com.apple.quarantine libgif.dylib",
+		"xattr -r -d com.apple.quarantine libjpeg.8.dylib",
+		"xattr -r -d com.apple.quarantine liblept-5.dylib",
+		"xattr -r -d com.apple.quarantine libopenjp2.7.dylib",
+		"xattr -r -d com.apple.quarantine libpng16.16.dylib",
+		"xattr -r -d com.apple.quarantine libtesseract-5.dylib",
+		"xattr -r -d com.apple.quarantine libtiff.5.dylib",
+		"xattr -r -d com.apple.quarantine libwebp.7.dylib",
+		"xattr -r -d com.apple.quarantine libwebpmux.3.dylib",
+		"xattr -r -d com.apple.quarantine pdfium.vanilla.dylib"
+      ]
+    }
+  ]
+}

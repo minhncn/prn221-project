@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{38E1B792-0795-491A-BA41-9848820A8A12}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/thinhtran/Documents/TestOCR/TestOCR/Class1.cs" relfile="TestOCR/Class1.cs" line="19" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.TestReadImg PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestReadImg/Program.cs">
+    <Files>
+      <File FileName="TestReadImg/Program.cs" Line="26" Column="68" />
+      <File FileName="../../.nuget/packages/ironocr/2023.4.13/readme.txt" Line="1" Column="1" />
+      <File FileName="../../.nuget/packages/ironocr.languages.vietnamese/2020.11.2/readme.txt" Line="8" Column="32" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TestOCR" expanded="True">
+            <Node name="TestReadImg" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="images" expanded="True" />
+              <Node name="testdata" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

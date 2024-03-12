@@ -1,0 +1,105 @@
+20:14:19 (0x7ff85970b000): PdfDocumentFactory created document 0x6000054680f0 from 17017 bytes
+20:14:19 (0x7ff85970b000): Storing new document 0
+20:14:19 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:14:19 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:14:19 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:14:19 (0x7ff85970b000): Generating bytes for document 0x600001408000
+20:14:19 (0x7ff85970b000): Successfully generated 16791 bytes for document 0x600001408000
+20:14:19 (0x7ff85970b000): PdfDocumentFactory created document 0x600001460000 from 16791 bytes
+20:14:19 (0x7ff85970b000): Storing new document 1
+20:14:19 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000054680f0
+20:14:19 (0x7ff85970b000): Erasing document 0
+20:14:20 (0x7ff85970b000): Generating bytes for document 0x600001460000
+20:14:20 (0x7ff85970b000): Successfully generated 76774 bytes for document 0x600001460000
+20:14:20 (0x7ff85970b000): PdfDocumentFactory closed document 0x600001460000
+20:14:20 (0x7ff85970b000): Erasing document 1
+20:16:52 (0x7ff85970b000): PdfDocumentFactory created document 0x600000bb0000 from 8812 bytes
+20:16:52 (0x7ff85970b000): Storing new document 0
+20:16:52 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:16:52 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:16:52 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:16:52 (0x7ff85970b000): Generating bytes for document 0x600004b18000
+20:16:52 (0x7ff85970b000): Successfully generated 8585 bytes for document 0x600004b18000
+20:16:52 (0x7ff85970b000): PdfDocumentFactory created document 0x600000b044b0 from 8585 bytes
+20:16:52 (0x7ff85970b000): Storing new document 1
+20:16:52 (0x7ff85970b000): PdfDocumentFactory closed document 0x600000bb0000
+20:16:52 (0x7ff85970b000): Erasing document 0
+20:16:53 (0x7ff85970b000): Generating bytes for document 0x600000b044b0
+20:16:53 (0x7ff85970b000): Successfully generated 68571 bytes for document 0x600000b044b0
+20:16:53 (0x7ff85970b000): PdfDocumentFactory closed document 0x600000b044b0
+20:16:53 (0x7ff85970b000): Erasing document 1
+20:18:29 (0x7ff85970b000): PdfDocumentFactory created document 0x6000074dc0f0 from 61618 bytes
+20:18:29 (0x7ff85970b000): Storing new document 0
+20:18:29 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:18:29 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:18:29 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+20:18:29 (0x7ff85970b000): Generating bytes for document 0x600003430000
+20:18:29 (0x7ff85970b000): Successfully generated 61389 bytes for document 0x600003430000
+20:18:29 (0x7ff85970b000): PdfDocumentFactory created document 0x6000074f4000 from 61389 bytes
+20:18:29 (0x7ff85970b000): Storing new document 1
+20:18:29 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000074dc0f0
+20:18:29 (0x7ff85970b000): Erasing document 0
+20:18:30 (0x7ff85970b000): Generating bytes for document 0x6000074f4000
+20:18:30 (0x7ff85970b000): Successfully generated 121377 bytes for document 0x6000074f4000
+20:18:30 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000074f4000
+20:18:30 (0x7ff85970b000): Erasing document 1
+21:00:41 (0x7ff85970b000): PdfDocumentFactory created document 0x6000060ec000 from 61629 bytes
+21:00:41 (0x7ff85970b000): Storing new document 0
+21:00:42 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:00:42 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:00:42 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:00:42 (0x7ff85970b000): Generating bytes for document 0x6000060ec1e0
+21:00:42 (0x7ff85970b000): Successfully generated 61400 bytes for document 0x6000060ec1e0
+21:00:42 (0x7ff85970b000): PdfDocumentFactory created document 0x6000060ec1e0 from 61400 bytes
+21:00:42 (0x7ff85970b000): Storing new document 1
+21:00:42 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000060ec000
+21:00:42 (0x7ff85970b000): Erasing document 0
+21:00:42 (0x7ff85970b000): Generating bytes for document 0x6000060ec1e0
+21:00:42 (0x7ff85970b000): Successfully generated 121388 bytes for document 0x6000060ec1e0
+21:00:42 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000060ec1e0
+21:00:42 (0x7ff85970b000): Erasing document 1
+21:01:08 (0x7ff85970b000): PdfDocumentFactory created document 0x6000061cc000 from 61626 bytes
+21:01:08 (0x7ff85970b000): Storing new document 0
+21:01:08 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:01:08 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:01:08 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:01:08 (0x7ff85970b000): Generating bytes for document 0x6000061cc0f0
+21:01:08 (0x7ff85970b000): Successfully generated 61397 bytes for document 0x6000061cc0f0
+21:01:08 (0x7ff85970b000): PdfDocumentFactory created document 0x600002100000 from 61397 bytes
+21:01:08 (0x7ff85970b000): Storing new document 1
+21:01:08 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000061cc000
+21:01:08 (0x7ff85970b000): Erasing document 0
+21:01:09 (0x7ff85970b000): Generating bytes for document 0x600002100000
+21:01:09 (0x7ff85970b000): Successfully generated 121385 bytes for document 0x600002100000
+21:01:09 (0x7ff85970b000): PdfDocumentFactory closed document 0x600002100000
+21:01:09 (0x7ff85970b000): Erasing document 1
+21:03:25 (0x7ff85970b000): PdfDocumentFactory created document 0x6000021d0000 from 61626 bytes
+21:03:25 (0x7ff85970b000): Storing new document 0
+21:03:25 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:25 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:25 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:25 (0x7ff85970b000): Generating bytes for document 0x600002164000
+21:03:25 (0x7ff85970b000): Successfully generated 61397 bytes for document 0x600002164000
+21:03:25 (0x7ff85970b000): PdfDocumentFactory created document 0x6000061180f0 from 61397 bytes
+21:03:25 (0x7ff85970b000): Storing new document 1
+21:03:25 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000021d0000
+21:03:25 (0x7ff85970b000): Erasing document 0
+21:03:25 (0x7ff85970b000): Generating bytes for document 0x6000061180f0
+21:03:25 (0x7ff85970b000): Successfully generated 121385 bytes for document 0x6000061180f0
+21:03:25 (0x7ff85970b000): PdfDocumentFactory closed document 0x6000061180f0
+21:03:25 (0x7ff85970b000): Erasing document 1
+21:03:51 (0x7ff85970b000): PdfDocumentFactory created document 0x60000630c000 from 61629 bytes
+21:03:51 (0x7ff85970b000): Storing new document 0
+21:03:51 (0x7ff85970b000): !!! Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:51 (0x7ff85970b000): Warning! Failed to copy forms while merging documents: Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:51 (0x7ff85970b000): Pdfium error: 'Error while copying forms (Document annotations not initialized)'
+21:03:51 (0x7ff85970b000): Generating bytes for document 0x60000630c1e0
+21:03:51 (0x7ff85970b000): Successfully generated 61400 bytes for document 0x60000630c1e0
+21:03:51 (0x7ff85970b000): PdfDocumentFactory created document 0x60000635c000 from 61400 bytes
+21:03:51 (0x7ff85970b000): Storing new document 1
+21:03:51 (0x7ff85970b000): PdfDocumentFactory closed document 0x60000630c000
+21:03:51 (0x7ff85970b000): Erasing document 0
+21:03:52 (0x7ff85970b000): Generating bytes for document 0x60000635c000
+21:03:52 (0x7ff85970b000): Successfully generated 121388 bytes for document 0x60000635c000
+21:03:52 (0x7ff85970b000): PdfDocumentFactory closed document 0x60000635c000
+21:03:52 (0x7ff85970b000): Erasing document 1

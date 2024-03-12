@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "l2O4m2Gx0TR9PuV4YyJnWTxfflCkPRtm/URKaWx8wAxKlQV02SK/QnNANzaM8f8OXIOiJB856rOJgCrDxYtGEw==",
+  "success": true,
+  "projectFilePath": "/Users/thinhtran/Documents/TestOCR/TestReadImg/TestReadImg.csproj",
+  "expectedPackageFiles": [
+    "/Users/thinhtran/.nuget/packages/bitmiracle.libtiff.net/2.4.649/bitmiracle.libtiff.net.2.4.649.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/ironocr/2023.4.13/ironocr.2023.4.13.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/ironocr.languages.vietnamese/2020.11.2/ironocr.languages.vietnamese.2020.11.2.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/ironocr.macos/2023.3.2/ironocr.macos.2023.3.2.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/ironsoftware.system.drawing/2023.3.3/ironsoftware.system.drawing.2023.3.3.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/microsoft.extensions.logging.abstractions/5.0.0/microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/sixlabors.imagesharp/2.1.3/sixlabors.imagesharp.2.1.3.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/system.reflection.emit/4.7.0/system.reflection.emit.4.7.0.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/system.runtime.compilerservices.unsafe/5.0.0/system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg.sha512",
+    "/Users/thinhtran/.nuget/packages/tesseract/5.2.0/tesseract.5.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
